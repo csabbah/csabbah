@@ -15,9 +15,6 @@ Hello, welcome to my Github! I'm Carlos, I am a certified Full-Stack Developer, 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=csabbah&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=csabbah&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=csabbah&icon=5&color=12)](https://visitcount.itsvg.in)
 
