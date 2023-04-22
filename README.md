@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, welcome to my Github! I'm Carlos, I am a certified Full-Stack Developer, Graphic Designer & Social Media expert with over 7 years of experience in design & marketing. I have developed over 65 applications of increasing complexity, honing my skills through self-study, online courses, & a rigorous full-stack boot camp program at the University of Toronto where I graduated with a 4.0 GPA. I have experience working collaboratively with other developers, leading teams & have a proven ability to quickly learn new technologies & skills. 
+Welcome to my Github! I'm Carlos, a certified Full-Stack Developer, Graphic Designer & Social Media expert with 7+ years of experience. I've developed over 65 applications, honing my skills through self-study, online courses, and a rigorous full-stack boot camp program at the University of Toronto where I graduated with a 4.0 GPA. I excel in collaborative work, team leadership, and quick learning of new technologies & skills
 
 
 ## 🌐 Socials:
