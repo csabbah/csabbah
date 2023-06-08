@@ -1,6 +1,6 @@
 # Hi, I'm Carlos Sabbah!👋🏼
 
-#### A Full-Stack Developer, Graphic Designer & Social Media expert based in Toronto.
+#### A Full-Stack React Native Developer, Graphic Designer & Social Media expert based in Toronto.
  
 ![](https://github-profile-trophy.vercel.app/?username=csabbah&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
