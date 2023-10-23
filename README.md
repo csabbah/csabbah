@@ -4,7 +4,7 @@
  
 ![](https://github-profile-trophy.vercel.app/?username=csabbah&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
-##### 🤳 Currently working on a MERN stack react native dating app and a MERN stack teaching assistant.
+##### 🤳 Currently working on a MERN stack react native dating app & a MERN stack teaching assistant.
 ##### 👨🏽‍💻️ View my portfolio [Here](https://carlos-sabbah-portfolio.vercel.app/)
 ##### 📬 How to reach me carlossabbah@hotmail.com
 ##### 👶🏽 Fun fact, I've been using a computer ever since I could walk
