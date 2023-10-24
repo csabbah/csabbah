@@ -9,7 +9,4 @@
 ##### 📬 How to reach me carlossabbah@hotmail.com
 ##### 👶🏽 Fun fact, I've been using a computer ever since I could walk
 
-#
-#
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=csabbah&theme=dark&hide_border=false)
